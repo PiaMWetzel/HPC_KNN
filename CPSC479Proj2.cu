@@ -1,9 +1,6 @@
 
-//Project 2
-//Group Work
-//CPSC 479
-//Pia Wetzel & Saytu Singh
-//May 3, 2020
+//Pia Wetzel
+
 
 
 /*
