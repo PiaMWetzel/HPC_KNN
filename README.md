@@ -1,6 +1,7 @@
-#Programming Languages: Cuda/C
+## KNN with Iris
 
-#Data: The famous Iris data set, obtained from https://archive.ics.uci.edu/ml/datasets/iris.
+Programming Languages: Cuda/C
+Data: The famous Iris data set, obtained from https://archive.ics.uci.edu/ml/datasets/iris.
 Distance measure: Euclidean
 Parameters of interest: Species of the Iris flower
 Given Parameters: Petal-length, petal-width, sepal-length, sepal-width
