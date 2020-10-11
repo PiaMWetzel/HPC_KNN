@@ -6,6 +6,7 @@
 **Parameters of interest:** Species of the Iris flower  
 **Given Parameters:** Petal-length, petal-width, sepal-length, sepal-width  
 **Algorithm:** K-Nearest Neighbors (KNN)  
+
 **Brief Description:** Goal is to determine which Iris species (Setosa, Versicolor, or Virginica) a given test
 vector belongs to by using the KNN classification algorithm. The algorithm assumes “birds of one feather
 flock together” and is looking for other - already known - species whose values for petal length, petal
